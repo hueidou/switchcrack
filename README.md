@@ -72,6 +72,7 @@
 
 ## 其他引导资料
 
+* [Kosmos V11 破解指南](https://www.jianshu.com/p/8b0888f00866)，2018.11.23
 * [SwitchHacks Common Resources - Reddit](https://www.reddit.com/r/SwitchHacks/comments/7sp9dc/common_resources_looking_for_something_start_here/)
 * [Homebrew Guide](https://guide.sdsetup.com/)
 
