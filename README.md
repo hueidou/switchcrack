@@ -5,7 +5,7 @@
 ||工具|用途|说明|
 |---|---|---|---|
 |[Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)|Atmosphere（大气层）|CFW||
-||[hekate](https://github.com/CTCaer/hekate)|Bootloader||
+||[hekate](https://github.com/CTCaer/hekate)|Custom Bootloader||
 |[SwitchTools][switchtools]|TegraRcmSmash|payload发射（Windows）||
 ||ChoiDujourNX（大白兔）|免熔断升级固件||
 ||ChoiDujour|||
@@ -31,6 +31,7 @@
 * [Team Xecuter][xecuter]
 * [SwitchTools][switchtools]
 * [Switch应用商店](https://switchbru.com/appstore/#/)
+* [RCM-Guide](https://xghostboyx.github.io/RCM-Guide/)
 
 ## 信息集合
 
@@ -61,6 +62,12 @@
 
 * CFW（Custom Firmware），自制系统固件
 * 
+
+
+## 其他引导资料
+
+* [SwitchHacks Common Resources - Reddit](https://www.reddit.com/r/SwitchHacks/comments/7sp9dc/common_resources_looking_for_something_start_here/)
+* [Homebrew Guide](https://guide.sdsetup.com/)
 
 [xecuter]: https://sx.xecuter.com/
 [switchtools]: https://switchtools.sshnuke.net/
