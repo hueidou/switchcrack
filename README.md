@@ -72,9 +72,6 @@
 
 ## 其他引导资料
 
-* [ReiNX First Time Set-Up](https://reinx.guide/firsttime) 
-* [ReiNX First Time Set-Up](https://reinx.guide/firsttime)
-
 * [SwitchHacks Common Resources - Reddit](https://www.reddit.com/r/SwitchHacks/comments/7sp9dc/common_resources_looking_for_something_start_here/)
 * [Homebrew Guide](https://guide.sdsetup.com/)
 
