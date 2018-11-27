@@ -18,15 +18,21 @@
 ||SX Loader|供SX OS使用的payload||
 ||SX Gear|What？||
 ||SX Dumper|游戏Dump工具|
-|其他|[NXLoader][nxloader]|payload发射（Android）||
-||[Fusee Launcher](https://github.com/reswitched/fusee-launcher)|payload发射（Linux）||
+|其他|[NXLoader](https://github.com/DavidBuchanan314/NXLoader)|payload发射（Android）||
+||[NXBoot](https://mologie.github.io/nxboot/)|payload发射（iOS/macOS）||
+||[Rekado](https://github.com/MenosGrante/Rekado)|payload发射（Android）||
+||[TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI)|GUI for TegraRcmSmash（Windows）||
+||[Fusee Launcher](https://github.com/Cease-and-DeSwitch/fusee-launcher)|payload发射（Linux）||
+||[ReiNX](https://reinx.guide)|CFW||
 ||[ReiNXToolkit](https://github.com/Reisyukaku/ReiNXToolkit)|ReiNX工具包||
-||[Web Fusee Launcher](https://switch.exploit.fortheusers.org/)|payload发射（Linux/macOS/Android/Chromebook）||
+||[Web Fusée Launcher](https://switch.exploit.fortheusers.org/)|payload发射（Linux/macOS/Android/Chromebook）||
+||[Web Fusée Launcher](https://fusee-gelee.firebaseapp.com/)|||
 ||[SwitchBru DNS](https://switchbru.com/dns/)|Switch浏览器功能||
 
 ## 网址
 
 * [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+* [ReiNX](https://reinx.guide/)
 * [GBAtemp.net](https://gbatemp.net/)
 * [Team Xecuter][xecuter]
 * [SwitchTools][switchtools]
@@ -65,6 +71,9 @@
 
 
 ## 其他引导资料
+
+* [ReiNX First Time Set-Up](https://reinx.guide/firsttime) 
+* [ReiNX First Time Set-Up](https://reinx.guide/firsttime)
 
 * [SwitchHacks Common Resources - Reddit](https://www.reddit.com/r/SwitchHacks/comments/7sp9dc/common_resources_looking_for_something_start_here/)
 * [Homebrew Guide](https://guide.sdsetup.com/)
