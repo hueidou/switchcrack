@@ -72,7 +72,9 @@
 
 ## 其他引导资料
 
-* [Kosmos V11 破解指南](https://www.jianshu.com/p/8b0888f00866)，2018.11.23
+* [Kosmos V11 破解指南 - 本垃登 - 简书](https://www.jianshu.com/p/8b0888f00866)，2018.11.23
+* [离线免熔断刷入Switch系统 - 本垃登 - 简书](https://www.jianshu.com/p/ca16eef7527c)
+* [使用安卓手机作为Switch注入器 - 本垃登 - 简书](https://www.jianshu.com/p/0d865d92c7b0)
 * [SwitchHacks Common Resources - Reddit](https://www.reddit.com/r/SwitchHacks/comments/7sp9dc/common_resources_looking_for_something_start_here/)
 * [Homebrew Guide](https://guide.sdsetup.com/)
 
