@@ -65,6 +65,8 @@
 |||||
 |||||
 
+固件集合：https://mega.nz/#F!NUAmUCYD!NJiZyBbUIs7BPvbM0H-_Sg
+
 ## 名词
 
 * CFW（Custom Firmware），自制系统固件
