@@ -47,21 +47,21 @@
 ## NS固件集合
 |版本|固件|时间|熔断|
 |---|---|---|---|
-|1.0.0|https://mega.nz/#!NgFjhaBB!GO90FaiSTeu0WBocVqETDlMk-GnfoZzyPEYNiaD3Bxc|||
-|2.0.0|https://mega.nz/#!dhUBGQaR!HbNliWAR1LaGvGhVPUZ0KCMzTtUbm5kgirv4g-NPsO0|||
-|2.1.0|https://mega.nz/#!ghN3TSoK!9WcWvOHNfK-hEYW7quLi2W4d6U28EWU3FV4hVs4q1Gk|||
-|2.2.0|https://mega.nz/#!Q8dxWKgL!CVFuKPWzYfQoVKUBlWbZICd5mSEh1_-k_b6NVB0OEvw|||
-|2.3.0|https://mega.nz/#!xlFhWKja!LaPd2T9kAJ2haxoo3nRFwEuPk1naq3wYXV7nAVMVc6o|||
-|3.0.0|https://mega.nz/#!dgNHxY7B!2Wad9Tt7BIBulgZn7Ef8fCxcq1Qf3Xe0zA6-RS0LV0g|||
-|3.0.1|https://mega.nz/#!o8M1xSrD!k_RHYOvLhy4moDgB-nLNgaRyX1mQ5bGoZXuy3ts-leA|||
-|3.0.2|https://mega.nz/#!Qht2nAwI!XF3zZCTQDHnjHyxA17UKgUiztU0ui-HgWes4Jj0h0KA|||
-|4.0.1|https://mega.nz/#!sksi1QjA!gDzHtWgiaGjlrwJcUpHFSdOCH57BLIg9eM3SvHQgyeI|||
-|4.1.0|https://mega.nz/#!J8cVAICJ!dY8HecH6ul9-O8SWA6_2SGf_B4xRZzXzcRkhPTWDaZg|||
-|5.0.0|https://mega.nz/#!8glD1ITT!vwIkcz4x9WW7dlURZLV7xEGjK7aawt-kjRhBEP9Ydlk|||
-|5.0.1|https://mega.nz/#!NsUBiaTT!D1JQBSUUnkxFZN51_veIiT0f9wJaC4x1mIpFGcH-PIk|||
-|5.0.2|https://mega.nz/#!05FlFALA!m-MzuzwHoxoYSMftoOaMtiHY2S2s67OjTMpYyzzewxk|||
-|5.1.0|https://mega.nz/#!B11xFZpL!_pquY4tM9XaM4j8wDXXh6vCT5MUirgSNNw1SDP3wbNE|||
-|||||
+|1.0.0|https://mega.nz/#!NgFjhaBB!GO90FaiSTeu0WBocVqETDlMk-GnfoZzyPEYNiaD3Bxc||1|
+|2.0.0|https://mega.nz/#!dhUBGQaR!HbNliWAR1LaGvGhVPUZ0KCMzTtUbm5kgirv4g-NPsO0||2|
+|2.1.0|https://mega.nz/#!ghN3TSoK!9WcWvOHNfK-hEYW7quLi2W4d6U28EWU3FV4hVs4q1Gk||2|
+|2.2.0|https://mega.nz/#!Q8dxWKgL!CVFuKPWzYfQoVKUBlWbZICd5mSEh1_-k_b6NVB0OEvw||2|
+|2.3.0|https://mega.nz/#!xlFhWKja!LaPd2T9kAJ2haxoo3nRFwEuPk1naq3wYXV7nAVMVc6o||2|
+|3.0.0|https://mega.nz/#!dgNHxY7B!2Wad9Tt7BIBulgZn7Ef8fCxcq1Qf3Xe0zA6-RS0LV0g||3|
+|3.0.1|https://mega.nz/#!o8M1xSrD!k_RHYOvLhy4moDgB-nLNgaRyX1mQ5bGoZXuy3ts-leA||4|
+|3.0.2|https://mega.nz/#!Qht2nAwI!XF3zZCTQDHnjHyxA17UKgUiztU0ui-HgWes4Jj0h0KA||4|
+|4.0.1|https://mega.nz/#!sksi1QjA!gDzHtWgiaGjlrwJcUpHFSdOCH57BLIg9eM3SvHQgyeI||5|
+|4.1.0|https://mega.nz/#!J8cVAICJ!dY8HecH6ul9-O8SWA6_2SGf_B4xRZzXzcRkhPTWDaZg||5|
+|5.0.0|https://mega.nz/#!8glD1ITT!vwIkcz4x9WW7dlURZLV7xEGjK7aawt-kjRhBEP9Ydlk||6|
+|5.0.1|https://mega.nz/#!NsUBiaTT!D1JQBSUUnkxFZN51_veIiT0f9wJaC4x1mIpFGcH-PIk||6|
+|5.0.2|https://mega.nz/#!05FlFALA!m-MzuzwHoxoYSMftoOaMtiHY2S2s67OjTMpYyzzewxk||6|
+|5.1.0|https://mega.nz/#!B11xFZpL!_pquY4tM9XaM4j8wDXXh6vCT5MUirgSNNw1SDP3wbNE||6|
+|6.0.0|||7|
 |||||
 |||||
 
