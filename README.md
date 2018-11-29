@@ -5,6 +5,7 @@
 ||工具|用途|说明|
 |---|---|---|---|
 |[Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)|Atmosphere（大气层）|CFW||
+||[Kosmos](https://github.com/AtlasNX/Kosmos)|大气层工具包||
 ||[hekate](https://github.com/CTCaer/hekate)|Custom Bootloader||
 |[SwitchTools][switchtools]|TegraRcmSmash|payload发射（Windows）||
 ||ChoiDujourNX（大白兔）|免熔断升级固件||
