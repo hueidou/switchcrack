@@ -29,6 +29,8 @@
 ||[Web Fusée Launcher](https://switch.exploit.fortheusers.org/)|payload发射（Linux/macOS/Android/Chromebook）||
 ||[Web Fusée Launcher](https://fusee-gelee.firebaseapp.com/)|||
 ||[SwitchBru DNS](https://switchbru.com/dns/)|Switch浏览器功能||
+||[Goldleaf/Tinfoil](https://github.com/XorTroll/Goldleaf)|||
+||[UsbInstallGUI](https://github.com/ln93/switch_USB_Install_GUI_QT)|使用Tinfoil进行USB安装NSP||
 
 ## 网址
 
