@@ -7,14 +7,14 @@
 |[Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)|Atmosphere（大气层）|CFW||
 ||[Kosmos](https://github.com/AtlasNX/Kosmos)|大气层工具包||
 ||[hekate](https://github.com/CTCaer/hekate)|Custom Bootloader||
-|[SwitchTools][switchtools]|TegraRcmSmash|payload发射（Windows）||
+|[SwitchTools](https://switchtools.sshnuke.net/)|TegraRcmSmash|payload发射（Windows）||
 ||ChoiDujourNX（大白兔）|免熔断升级固件||
 ||ChoiDujour|||
 ||RajNX|CFW||
 ||gptrestore/briccmii/memloader|What？||
 ||romdump/biskeydump|What？||
 ||HacDiskMount/PartialAesKeyCrack|What？||
-|[Team Xecuter][xecuter]|SX OS|SX系统||
+|[Team Xecuter](https://sx.xecuter.com/)|SX OS|SX系统||
 ||SX Tools|payload发射（Android）||
 ||SX Loader|供SX OS使用的payload||
 ||SX Gear|What？||
@@ -34,13 +34,9 @@
 
 ## 网址
 
-* [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
-* [ReiNX](https://reinx.guide/)
-* [GBAtemp.net](https://gbatemp.net/)
-* [Team Xecuter][xecuter]
-* [SwitchTools][switchtools]
+* [GBAtemp.net](https://gbatemp.net/)，Switch破解相关论坛
 * [Switch应用商店](https://switchbru.com/appstore/#/)
-* [RCM-Guide](https://xghostboyx.github.io/RCM-Guide/)
+* [RCM-Guide](https://xghostboyx.github.io/RCM-Guide/)，RCM各种利用方法指导
 
 ## 信息集合
 
@@ -82,6 +78,3 @@
 * [使用安卓手机作为Switch注入器 - 本垃登 - 简书](https://www.jianshu.com/p/0d865d92c7b0)
 * [SwitchHacks Common Resources - Reddit](https://www.reddit.com/r/SwitchHacks/comments/7sp9dc/common_resources_looking_for_something_start_here/)
 * [Homebrew Guide](https://guide.sdsetup.com/)
-
-[xecuter]: https://sx.xecuter.com/
-[switchtools]: https://switchtools.sshnuke.net/
