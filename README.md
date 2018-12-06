@@ -35,8 +35,11 @@
 ## 网址
 
 * [GBAtemp.net](https://gbatemp.net/)，Switch破解相关论坛
+* [SwitchBrew](https://switchbrew.org/)，Wiki，Switch维基
 * [Switch应用商店](https://switchbru.com/appstore/#/)
-* [RCM-Guide](https://xghostboyx.github.io/RCM-Guide/)，RCM各种利用方法指导
+* [RCM-Guide](https://xghostboyx.github.io/RCM-Guide/)，指导，RCM的各种利用方法
+* [91WII](https://www.91wii.com/)，论坛，Switch破解、游戏资源、游戏交流
+* [LOVEPS4](http://loveps4.com/)，博客，游戏资源
 
 ## 信息集合
 
@@ -68,7 +71,7 @@
 ## 名词
 
 * CFW（Custom Firmware），自制系统固件
-* 
+* NRO（Nintendo Switch Executable），任天堂Switch可执行文件，以.nro为后缀
 
 
 ## 其他引导资料
