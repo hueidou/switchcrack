@@ -34,11 +34,12 @@
 
 ## 网址
 
-* [GBAtemp.net](https://gbatemp.net/)，Switch破解相关论坛
+* [GBAtemp.net](https://gbatemp.net/)，Switch破解交流/发布论坛
+* [Homebrew SD Setup](https://www.sdsetup.com/console?switch)，大气层包定制，列举了大部分Switch破解相关工具
 * [SwitchBrew](https://switchbrew.org/)，Wiki，Switch维基
 * [Switch应用商店](https://switchbru.com/appstore/#/)
 * [RCM-Guide](https://xghostboyx.github.io/RCM-Guide/)，指导，RCM的各种利用方法
-* [91WII](https://www.91wii.com/)，论坛，Switch破解、游戏资源、游戏交流
+* [91WII](https://www.91wii.com/)，论坛，Switch破解分享、游戏资源、游戏交流
 * [LOVEPS4](http://loveps4.com/)，博客，游戏资源
 
 ## 信息集合
