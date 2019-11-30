@@ -67,7 +67,7 @@
 |||||
 |||||
 
-固件集合：https://mega.nz/#F!NUAmUCYD!NJiZyBbUIs7BPvbM0H-_Sg
+固件集合：https://team-xecuter.com/community/threads/nintendo-switch-official-firmwares.129233/
 
 ## 名词
 
